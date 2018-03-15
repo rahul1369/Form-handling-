@@ -1,0 +1,85 @@
+body,*{
+		margin:auto;
+	}
+	.form-body{
+		width: 90%;
+		max-width: 650px;
+		margin: auto;
+		border:2px solid lightgreen;
+		margin-top: 60px;
+		padding:0;
+		border-radius: 15px;
+	}
+	.option-select{
+		width:100%;
+		margin:auto;
+	}
+	.col-md-6{
+		padding:0;
+	}
+	.option-select button{
+		width: 100%;
+		padding:15px 10px;
+		background:transparent;
+		border:0;
+		border-bottom: 1px solid grey;
+	}
+	.login-form{
+		/*background-color: lightgrey;*/
+		width:80%;
+		margin: auto;
+		padding:40px 0;
+		display: block;
+	}
+	.login-form input[type=text]{
+		width: 100%;
+		padding:10px 10px;
+		border-radius: 5px;
+		border:1px solid lightgrey;
+		margin-bottom: 15px;
+	}
+	.login-form input[type=password]{
+		width: 100%;
+		padding:10px 10px;
+		border-radius: 5px;
+		border:1px solid lightgrey;
+		margin-bottom: 15px;
+	}
+	.submit-button input[type=submit]{
+		width: 100%;
+		margin:auto;
+		padding:10px 10px;
+		border-radius: 5px;
+		border:1px solid lightgrey;
+	}
+	.active{
+		border-top-left-radius: 15px;
+	}
+	.signup-form{
+		/*background-color: lightgrey;*/
+		width:80%;
+		margin: auto;
+		padding:40px 0;
+		display:none;
+	}
+	.signup-form input[type=text]{
+		width: 100%;
+		padding:10px 10px;
+		border-radius: 5px;
+		border:1px solid lightgrey;
+		margin-bottom: 15px;
+	}
+	.signup-form input[type=password]{
+		width: 100%;
+		padding:10px 10px;
+		border-radius: 5px;
+		border:1px solid lightgrey;
+		margin-bottom: 15px;
+	}
+	.signup-form input[type=number]{
+		width: 100%;
+		padding:10px 10px;
+		border-radius: 5px;
+		border:1px solid lightgrey;
+		margin-bottom: 15px;
+	}
